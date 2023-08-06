@@ -1,1 +1,1 @@
-Data Fetched from json file and displayed in pagination.
+**This project was part of my assignment. It involves displaying user data from a JSON file, which includes information such as image links, names, ages, etc. The data is presented in a pagination view, ensuring that content keeps coming in as the user navigates through the pages.**
